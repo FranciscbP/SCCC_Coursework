@@ -1,0 +1,12 @@
+com\kiko\RabbitMQ\MessagePublisher.class
+com\kiko\ExternalServices\WeatherService.class
+com\kiko\ExternalServices\RandomIDService.class
+com\kiko\ExternalServices\User.class
+com\kiko\RabbitMQ\MessageSubscriber$EXCHANGE_TYPE.class
+com\kiko\WS\OrchestratorService.class
+com\kiko\DTOs\TravelOfferDTO.class
+com\kiko\RabbitMQ\MessagePublisher$EXCHANGE_TYPE.class
+com\kiko\DTOs\TravelIntentDTO.class
+com\kiko\RabbitMQ\MessageSubscriber.class
+com\kiko\ServerConfigs.class
+com\kiko\WS\ApplicationConfig.class
