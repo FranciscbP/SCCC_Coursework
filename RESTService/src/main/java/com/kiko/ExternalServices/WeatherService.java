@@ -13,7 +13,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class WeatherService {
-    public static String GoogleAPIKey = "AIzaSyDM-bByOUrNwQIdPR4gWE1whrKZxm-efVU";
+    public static String GoogleAPIKey = "...";
         
     public static JsonObject getLocationCoordinates(String location) throws IOException
     {
